@@ -28,8 +28,8 @@
 ## 🥰 Feel Free to Contact me..... 
 <div align="center">
 <a href="https://github.com/YemenCodeCraft"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-<a href="https://www.facebook.com/Eng.Osama.Almamari"><img alt="faceBook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook.png"/></a>
-<a href="https://wa.me/967779558800"><img alt="WhatsApp" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/whatsapp.png"/></a>
+<a href="https://www.facebook.com/faraa.aldhelaa"><img alt="faceBook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook.png"/></a>
+<a href="https://wsend.co/967717281413"><img alt="WhatsApp" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/whatsapp.png"/></a>
 <a href="https://www.linkedin.com/in/osama-almamari"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 <a href="https://yemencoder@gmail.com" ><img alt=Gmail  width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/apple-mail.png"/></a> 
 </div>  
