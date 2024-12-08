@@ -92,8 +92,10 @@
 <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a> 
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-https://www.kaggle.com/code/jainpooja/banking-project-term-deposit-prediction-model
-</div>
+<a href="https://www.your-new-url.com" target="_blank">
+  <img style="margin: 10px" src="https://your-new-image-url.com/image.svg" alt="Your New Name" height="50" />
+</a>
+
 
 </td></tr></table>  
 
