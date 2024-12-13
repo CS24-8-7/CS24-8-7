@@ -1,7 +1,7 @@
 <div align="center">  
 
 </div>  
-<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="MasterHead" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIj48cGF0aCBmaWxsPSIjNDBkMGZkIiBkPSJtMTUuMzgzIDE4LjMxNmwzLjM2MS0zLjI3NGg4LjM0OWwtNy4zOTYgNy4zOTZ6Ii8+PHBhdGggZmlsbD0iIzQxZDBmZCIgZD0ibTQuOTA3IDE2LjEyNWw0LjE5OSA0LjI5OUwyNy4wOTMgMi4yODdoLTguMzQ5eiIvPjxwYXRoIGZpbGw9IiMxZmJjZmQiIGQ9Im0xMS4xNzYgMjIuNDc5bDQuMjU5IDQuMTk2bDQuMjYyLTQuMjM3bC00LjMxNC00LjEyMnoiLz48cGF0aCBmaWxsPSIjMDk1YTlkIiBkPSJtMTUuNDM1IDI2LjY3NWw0LjI2Mi00LjIzN2w3LjI5MiA3LjM3NWgtOC4zOTZ6Ii8+PHBhdGggZmlsbD0iIzBlNTE5OSIgZD0ibTE1LjQzNSAyNi42NzVsMy45NzEtMS4zMjFsLTEuMzM4LTEuMjk3eiIvPjwvc3ZnPg==" alt="MasterHead" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <h1 align="center">Hi 👋, I'm Farea AL-Dhela’a</h1>
 
 <h3 align="center">A passionate Full Stack developer from Yemen</h3>
