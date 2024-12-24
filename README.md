@@ -1,7 +1,6 @@
-<div align="center">  
-  <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" style="max-width: 100%; display: inline-block;">
-</div>
 
+  <--img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" style="max-width: 100%; display: inline-block;">
+  -->
 <h1 align="center">Hi 👋, I'm Farea AL-Dhela’a</h1>
 <h3 align="center">A passionate Full Stack developer from Yemen</h3>
 
