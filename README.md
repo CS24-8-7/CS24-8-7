@@ -9,18 +9,13 @@
 
 - 💬 Ask me about **Android, Flutter**
 - 📫 How to reach me: **[faraa717281413@gmail.com](mailto:faraa717281413@gmail.com)**
-
-<h3>Contact With Me:</h3>
-<p>
-  <a href="https://x.com/Flutter_Dev717?s=08" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="farea_al_dhelaa" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/farea-al-dhela-a-9624b431a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farea-al-dhelaa" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/@farea_al_dhelaa" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="farea_al_dhelaa" height="30" width="40" />
-  </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/fareaaldhelaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fareaaldhelaa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fareaaldhelaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fareaaldhelaa" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/fareaaldhelaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fareaaldhelaa" height="30" width="40" /></a>
+<a href="https://fb.com/fareaaldhelaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fareaaldhelaa" height="30" width="40" /></a>
+<a href="https://instagram.com/fareaaldhelaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fareaaldhelaa" height="30" width="40" /></a>
 </p>
 
 ## 🥰 Feel Free to Contact me
