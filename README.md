@@ -23,8 +23,10 @@
 <p align="center">
   <a href="https://linktr.ee/YCC2030"><img alt="Linktree" width="10%" style="padding:5px" src="https://github.com/Farea-YCC/Profiledata/blob/main/linktree.gif"/></a>
   <a href="https://github.com/Farea-YCC"><img alt="GitHub" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-  <a href="https://www.facebook.com/faraa.aldhelaa"><img alt="Facebook" width="10%" style="padding:5px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fareaaldhelaa" height="30" width="40"/></a>
-  <a href="https://wsend.co/967717281413"><img alt="WhatsApp" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/whatsapp.png"/></a>
+<a href="https://fb.com/fareaaldhelaa" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fareaaldhelaa" height="30" width="40" />
+</a>
+    <a href="https://wsend.co/967717281413"><img alt="WhatsApp" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/whatsapp.png"/></a>
   <a href="https://www.linkedin.com/in/farea-al-dhela-a-9624b431a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img alt="LinkedIn" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
   <a href="mailto:faraa717281413@gmail.com"><img alt="Gmail" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/apple-mail.png"/></a>
 </p>
