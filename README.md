@@ -27,7 +27,8 @@
   <a href="https://www.linkedin.com/in/farea-al-dhela-a-9624b431a/"><img alt="LinkedIn" width="10%" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
   <a href="mailto:faraa717281413@gmail.com"><img alt="Gmail" width="10%" src="https://img.icons8.com/clouds/100/000000/apple-mail.png"/></a>
 </p>
-## 🔥 Streak Stats:
+
+### 🔥 Streak Stats:
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Farea-YCC&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
