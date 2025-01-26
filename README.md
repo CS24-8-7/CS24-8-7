@@ -5,10 +5,16 @@
   <img src="https://komarev.com/ghpvc/?username=farea-al-dhelaa&label=Profile%20views&color=0e75b6&style=flat" alt="farea-al-dhelaa" />
 </p>
 
-<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" />
+<p align="right">
+  <img alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" />
+</p>
+
+---
 
 - 💬 Ask me about **Android, Flutter**  
 - 📫 Reach me via email: [faraa717281413@gmail.com](mailto:faraa717281413@gmail.com)
+
+---
 
 ### Connect with me:
 <p align="center">
@@ -19,6 +25,8 @@
   <a href="https://instagram.com/fareaaldhelaa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
+---
+
 ### Feel Free to Contact Me:
 <p align="center">
   <a href="https://linktr.ee/YCC2030"><img alt="Linktree" width="10%" src="https://github.com/Farea-YCC/Profiledata/blob/main/linktree.gif"/></a>
@@ -28,39 +36,41 @@
   <a href="mailto:faraa717281413@gmail.com"><img alt="Gmail" width="10%" src="https://img.icons8.com/clouds/100/000000/apple-mail.png"/></a>
 </p>
 
+---
+
 ## 🔥 Streak Stats:
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Farea-YCC&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats"  alt="Streak Stats">  
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Farea-YCC&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats">
 </p>
+
+---
 
 ## 🛠️ Programming Languages and Tools:
 
-<table><tr><td valign="top" width="33%">
-<h3 align="center">Frontend</h3>
-<div align="center">  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /> 
-</div>
-</td><td valign="top" width="33%">
-<h3 align="center">Backend</h3>
-<div align="center">  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-</div>
-</td><td valign="top" width="33%">
-<h3 align="center">Other Tools</h3>
-<div align="center">  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
+### Frontend
+<p align="center">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />
+</p>
+
+### Backend
+<p align="center">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
+</p>
+
+### Other Tools
+<p align="center">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /> 
-</div>
-</td></tr></table>
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
+</p>
