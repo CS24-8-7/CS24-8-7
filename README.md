@@ -29,7 +29,7 @@
 </p>
 
 ## 🔥 Streak Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Farea-YCC&border_radius=1&hide_total_contributions=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Farea-YCC&border_radius=1&hide_total_contributions=true" alt="GitHub Streak" /></a>
 
 ## 🛠️ Programming Languages and Tools:
 
