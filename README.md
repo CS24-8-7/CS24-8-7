@@ -30,7 +30,12 @@
 
 ## 🔥 Streak Stats:
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Farea-YCC&border_radius=1&hide_total_contributions=true" alt="GitHub Streak" /></a>
-
+## 🔥 Streak Stats:
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Farea-YCC&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
+</p>
 ## 🛠️ Programming Languages and Tools:
 
 <table><tr><td valign="top" width="33%">
