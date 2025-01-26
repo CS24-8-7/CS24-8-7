@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=farea-al-dhelaa&label=Profile%20views&color=0e75b6&style=flat" alt="farea-al-dhelaa" />
 </p>
 
-<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" />
+<img align="right" alt="Coding" src="https://github.com/Farea-YCC/Profile-data-not-important/blob/23cc0b7891ed7caa587ed0a09413bdc38bade079/my%20logo.jpg" width="300" />
 
 - 💬 Ask me about **Android, Flutter**  
 - 📫 Reach me via email: [faraa717281413@gmail.com](mailto:faraa717281413@gmail.com)
