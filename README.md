@@ -41,7 +41,6 @@ Currently focused on **Flutter** and **Android development**, I enjoy turning id
 ### 📬 Contact Options
 <p align="center">
   <a href="https://linktr.ee/YCC2030">
-    
     <img alt="Linktree" src="https://github.com/Farea-YCC/Profiledata/blob/main/linktree.gif" width="40" />
   </a>
   &nbsp;&nbsp;
@@ -66,12 +65,13 @@ Currently focused on **Flutter** and **Android development**, I enjoy turning id
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <a href="https://git.io/streak-stats" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=CS24-8-7&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Farea-YCC&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </a>
 </p>
 
 ---
+
 ## 🛠️ Tech Stack
 
 ### 🖥️ Frontend
@@ -104,6 +104,4 @@ Currently focused on **Flutter** and **Android development**, I enjoy turning id
 
 ---
 
-<p align="center">
-  <em>Designed with Farea AL-Dhela’a💙 for GitHub</em>
-</p>
+<p align="center"> <em>Designed with Farea AL-Dhela’a💙 for GitHub</em> </p>
