@@ -105,5 +105,5 @@ Currently focused on **Flutter** and **Android development**, I enjoy turning id
 ---
 
 <p align="center">
-  <em>Designed with 💙 for GitHub</em>
+  <em>Designed with Farea AL-Dhela’a💙 for GitHub</em>
 </p>
